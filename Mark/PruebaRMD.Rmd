@@ -1,0 +1,13 @@
+---
+title: "MiPrimerRMD"
+author: "Francisco markin"
+date: "2022-08-28"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
